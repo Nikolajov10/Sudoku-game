@@ -1,0 +1,4 @@
+You can type numbers in fields and change it and it won't count as
+mistake or right choice until you hit the enter(right enter on the keyboard).
+If you want to skip playing and see final solution press space.
+You need to have pygame installed.
